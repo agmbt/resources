@@ -1,6 +1,9 @@
 # Resources
 Codes, papers, and general information on the automated generation of many-body theories
 
+Outcome of the [Automated tools for many-body theory](https://esnt.cea.fr/Phocea/Page/index.php?id=111) workshop at ESNT, Saclay, France, 5-8 June 2023.
+
+
 ## Nuclear Equation of State
 
 Feel free to contact Christian Drischler (drischler (at) ohio.edu) if you have questions about the automated evaluation of MBPT diagrams for nuclear matter.
